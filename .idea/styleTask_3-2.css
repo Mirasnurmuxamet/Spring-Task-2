@@ -1,0 +1,84 @@
+body{
+margin: 0px;
+font-family: Arial;
+}
+.headline{
+display: flex;
+background-color: #730107;
+}
+.headline a{
+color: white;
+text-decoration: none;
+}
+.logo{
+margin: 20px;
+font-size: 25px;
+}
+.menu{
+margin: 22px 20px 20px  auto;
+}
+.menu a{
+color: #dbb8ba;
+margin:5px;
+}
+.menu a:hover {
+color: white;
+}
+.headNews{
+margin: 20px 0px 0px 0px;
+display: flex;
+background-color: #81b8b4;
+padding: 25px;
+}
+.headNews img{
+width: 500px;
+}
+.text{
+margin:0px 0px 0px 25px;
+padding: 0px;
+}
+.text p{
+font-weight: 400;
+font-size: 18px;
+line-height: 1.5;
+margin: 10px 0px 0px 0px;
+}
+.text h2{
+margin: 0px;
+}
+.latestNews{
+text-align: center;
+padding-top: 10px;
+}
+.sport{
+margin: 10px;
+}
+.sport table{
+width: 100%;
+}
+.sport img{
+width: 310px;
+height: 210px;
+}
+.sport td{
+padding: 10px;
+}
+.sport h4{
+margin: 0px;
+}
+.sport p{
+margin: 0px;
+}
+.sport a {
+margin: 0px;
+}
+.sport button{
+background-color: #730107;
+color: white;
+padding: 5px 10px;
+font-size: 10px;
+border: 0px;
+}
+.sport button:hover{
+background-color: green;
+}
